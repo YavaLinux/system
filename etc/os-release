@@ -1,0 +1,12 @@
+NAME="YavaLinux"
+PRETTY_NAME="YavaLinux"
+ID=yavalinux
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://ainyava.ir/yavalinux"
+DOCUMENTATION_URL="https://github.com/yavalinux/"
+SUPPORT_URL="https://github.com/yavalinux/"
+BUG_REPORT_URL="https://github.com/yavalinux/"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=/usr/share/icons/Ainyava/256x256/yavalinux.png

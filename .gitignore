@@ -1,0 +1,4 @@
+yavalinux-system-git
+pkg
+src
+*.pkg.tar.*
