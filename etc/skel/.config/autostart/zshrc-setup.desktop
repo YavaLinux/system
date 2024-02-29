@@ -1,7 +1,7 @@
 [Desktop Entry]
 Categories=System;Monitor;
 Comment=Does the initial Bashrc setup
-Exec=bash -c "cp -r /usr/share/oh-my-zsh ~/.oh-my-zsh; mv ~/.zshrc_ainyava ~/.zshrc; rm ~/.config/autostart/zshrc-setup.desktop"
+Exec=bash -c "mv ~/.zshrc_ainyava ~/.zshrc; rm ~/.config/autostart/zshrc-setup.desktop"
 Icon=setup
 Name=Initial Bashrc setup
 StartupNotify=false
